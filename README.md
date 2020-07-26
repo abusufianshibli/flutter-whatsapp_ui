@@ -1,7 +1,7 @@
 # WHATSAPP UI
 ![](images/calls.PNG)
 ![](images/status.PNG)
-![](images/chats.PNG)
+![](images/chats.png)
 
 A new Flutter application.
 
